@@ -1,0 +1,11 @@
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\bin\Debug\netcoreapp2.0\TicketConsoleApp.deps.json
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\bin\Debug\netcoreapp2.0\TicketConsoleApp.runtimeconfig.json
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\bin\Debug\netcoreapp2.0\TicketConsoleApp.runtimeconfig.dev.json
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\bin\Debug\netcoreapp2.0\TicketConsoleApp.dll
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\obj\Debug\netcoreapp2.0\TicketConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\obj\Debug\netcoreapp2.0\TicketConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\obj\Debug\netcoreapp2.0\TicketConsoleApp.AssemblyInfoInputs.cache
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\obj\Debug\netcoreapp2.0\TicketConsoleApp.AssemblyInfo.cs
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\bin\Debug\netcoreapp2.0\TicketConsoleApp.pdb
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\obj\Debug\netcoreapp2.0\TicketConsoleApp.dll
+c:\users\farabi\source\repos\TicketConsoleApp\TicketConsoleApp\obj\Debug\netcoreapp2.0\TicketConsoleApp.pdb
